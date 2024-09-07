@@ -1,0 +1,35 @@
+Rest API using Rest Assured
+
+
+Response
+---------
+statusCode
+statusine
+ResponseTime
+
+Headers
+
+Response body
+Json
+
+Authentication 
+
+1) Define BaseURI
+2)Request object
+3)Response object
+4)Response Body
+--> validations
+status code
+status line
+headers
+
+------------------------------
+
+Data Driven Test
+------------
+
+prepare test data in Excel ( Apache poi - to read nd write data in excel)
+add the req apache dependency.
+write xl uttility file(java class ) which will read data from excel.
+Write TestNG test with DataProvider method.
+Write TestNG test with DataProvider method.
